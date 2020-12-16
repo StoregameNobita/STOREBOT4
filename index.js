@@ -8,7 +8,7 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾STORE4BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👾ADG-BOT👾'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/StoregameNobita/'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6282334323905'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
